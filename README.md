@@ -5,7 +5,7 @@
 +liste1
 
 +liste2
-
-Wir haben heute ein sehr schönes Wetter.
+.
+Wir haben heute sehr schönes Wetter <- Schreibfehler dieser Art sind nicht akzeptabel!
 
 *listef*  sdjfkljsaldkfjlsöak **Liebe**
